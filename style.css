@@ -46,3 +46,32 @@
     height: 200px;
     width: 200px;
 }
+.anasayfabaslik
+{
+    color: red;
+    text-shadow: skyblue;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tarihcefoto
+{
+    height: 600px;
+    width: 700px;
+    margin-top: 70px;
+}
+hr{
+    color: red;
+    font-size: xx-large;
+    font-weight: 300;
+}
+.logolar
+{
+    height: 400px;
+    width: 400px;
+  
+}
+.blog-alt-kisim
+{
+    width: 400px;
+}
+
